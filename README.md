@@ -9,8 +9,8 @@
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 **Educação:** Graduando em Sistemas de Informação pela **USP** (conclusão 2027) [cite: 297] [cite_start]e formado como Técnico em Mecatrônica.
-- 💡 **Experiência Atual:** Atuo na **Unimed CNU** como ponto focal técnico para sistemas, suporte de App, organização e análise de dados relacionados á equipe, projetos de IA (Gemini) e homologação de API.
+- 🎓 **Educação:** Graduando em Sistemas de Informação pela **USP** (conclusão 2027) e formado como Técnico em Mecatrônica.
+- 💡 **Experiência Atual:** Atuo como ponto focal técnico para sistemas, suporte de App, organização e análise de dados relacionados á equipe, projetos de IA (Gemini) e homologação de API.
 - 🏆 **Destaque:** Premiado com medalha de **Honra ao Mérito pelo MCTI** e Ouro nacional e internacional em Olimpíadas de Matemática e Astronomia.
 - 📈 **Resultados:** Implementei automações que reduziram em **30% o tempo de tratativa** de demandas operacionais e já treinei mais de 100 colaboradores.
 ---
