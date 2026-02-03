@@ -32,9 +32,10 @@
 
 ### 📊 Estatísticas
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eliasrod-io&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasrod-io&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170" src="https://my-repository-fawn-psi.vercel.app/api?username=eliasrod-io&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://my-repository-fawn-psi.vercel.app/api/top-langs/?username=eliasrod-io&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
+
 
 ### 🤝 Conecte-se
 * 📝 **LinkedIn:** [Acompanhe minha jornada](https://www.linkedin.com/in/elias-rodrigues07/)
