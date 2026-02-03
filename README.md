@@ -32,8 +32,8 @@
 
 ### 📊 Estatísticas
 <p align="left">
-  <img height="170" src="https://my-repository-fawn-psi.vercel.app/api?username=eliasrod-io&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://my-repository-fawn-psi.vercel.app/api/top-langs/?username=eliasrod-io&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="170" src="https://my-repository-fawn-psi.vercel.app/api?username=eliasrod-io&show_icons=true&theme=tokyonight&exclude_repo=my-repository" />
+  <img height="170" src="https://my-repository-fawn-psi.vercel.app/api/top-langs/?username=eliasrod-io&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=my-repository" />
 </p>
 
 
