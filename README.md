@@ -30,12 +30,6 @@
 
 ---
 
-### 📊 Estatísticas
-<p align="left">
-  <img height="170" src="https://my-repository-fawn-psi.vercel.app/api?username=eliasrod-io&show_icons=true&theme=tokyonight&exclude_repo=my-repository" />
-  <img height="170" src="https://my-repository-fawn-psi.vercel.app/api/top-langs/?username=eliasrod-io&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=my-repository" />
-</p>
-
 ### 🤝 Conecte-se
 * 📝 **LinkedIn:** [Acompanhe minha jornada](https://www.linkedin.com/in/elias-rodrigues07/)
 * 📧 **E-mail:** [elias.ti.rodrigues@gmail.com](mailto:elias.ti.rodrigues@gmail.com)
